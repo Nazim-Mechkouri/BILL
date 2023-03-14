@@ -9,7 +9,7 @@ Script for BILL project analysis
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#Acknowledgement">Installation</a></li>
+        <li><a href="#Acknowledgement">Acknowledgement</a></li>
         <li><a href="#prerequisites">Prerequisites</a></li>       
       </ul>
     </li>
