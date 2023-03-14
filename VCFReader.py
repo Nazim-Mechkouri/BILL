@@ -113,7 +113,7 @@ fichierF2.close()
 
 ### Upgraded DATAFRAME ###
 
-# Here we add every new information we extracted from the "support" column to the existing dataframes #
+# Here we add every new information we extracted from the "info" column to the existing dataframes #
 
 dfreq1 = pd.DataFrame(frequence_allelique1, columns=["FREQUENCY"])
 dtype1 = pd.DataFrame(mutation_type1, columns=["MUTATION"])
